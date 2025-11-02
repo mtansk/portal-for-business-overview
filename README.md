@@ -3,6 +3,8 @@
 ## Introduction
 Portal for Small Business (hereafter referred to as the Portal) is a SaaS PWA that serves as a **corporate portal tailored to the scale of small organizations** — enabling managers to control payroll and shift schedules within a single, ready-to-use IT solution, while employees can track all information about their earnings and work shifts in their personal accounts.
 
+A short (3 min) YouTube video with overview is [available](https://www.youtube.com/watch?v=Jp4zi1htoVI).  
+
 ## Architecture
 
 **High-level system diagram:**
@@ -103,5 +105,5 @@ All traffic passes through **Cloudflare (HTTPS, CDN, DDoS protection)**, and int
 <br />
 
 ## Final Note
-This project was **fully designed and implemented from scratch** by @mtansk  — including backend architecture, frontend, and deployment.
+This project was **fully designed and implemented from scratch** by @mtansk  — including backend architecture, frontend, and deployment. A short video of the UI and User Pathway is [here](https://www.youtube.com/watch?v=Jp4zi1htoVI).
 
